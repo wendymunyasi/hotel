@@ -35,9 +35,9 @@ This project is licensed under the MIT License.
 
 1. git clone using the following links.
 
-   link: https://github.com/hngi/international-frontend-hotel-1.git
+   link: https://github.com/wendymunyasi/hotel.git
 
-2. Naviagte to the `international-frontend-hotel-1` directory.
+2. Naviagte to the `hotel` directory.
 3. Open the file `index.html` to view the app on your browser.
 
 
